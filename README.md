@@ -1,6 +1,6 @@
 # Organic Food Website 🌾🥑🌰🥕🥝🍇🍉
 
-Welcome to the **Organic Food Website** project! This is a responsive and visually appealing website designed to showcase the menu, services, and ambiance of a restaurant. Built with **HTML**, **CSS**, **JavaScript** and **Bootatrap**, it provides an engaging user experience and adapts seamlessly to various devices.
+Welcome to the **Organic Food Website** project! This is a responsive and visually appealing website designed to showcase the type, usage, and quality of organic food. Built with **HTML**, **CSS**, **JavaScript** and **Bootatrap**, it provides an engaging user experience and adapts seamlessly to various devices.
 
 ## 📌 Features  
 
